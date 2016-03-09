@@ -1,0 +1,24 @@
+{
+  "name": "snabbdom-safe-props",
+  "version": "1.0.0",
+  "description": "Snabbdom replacement module for 'props' with unsupported 'type' protection ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/musocrat/snabbdom-safe-props.git"
+  },
+  "keywords": [
+    "snabbdom",
+    "module",
+    "props"
+  ],
+  "author": "Andrew Carpenter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/musocrat/snabbdom-safe-props/issues"
+  },
+  "homepage": "https://github.com/musocrat/snabbdom-safe-props#readme"
+}
